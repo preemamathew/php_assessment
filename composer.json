@@ -1,0 +1,22 @@
+{
+    "name": "ajith/assessment",
+    "description": "My first Composer project",
+    "authors": [
+        {
+            "name": "Ajith S",
+            "email": "ajith.sk25@gmail.Composer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require": {
+        "nahk/sql-pdo-class": ">=1.0-dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "Assessment": "src/"
+        }
+    }
+}
