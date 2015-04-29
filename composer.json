@@ -1,10 +1,10 @@
 {
-    "name": "ajith/assessment",
+    "name": "preema/assessment",
     "description": "My first Composer project",
     "authors": [
         {
-            "name": "Ajith S",
-            "email": "ajith.sk25@gmail.Composer"
+            "name": "Preema Shinil",
+            "email": "preemashinil@gmail.Composer"
         }
     ],
     "minimum-stability": "dev",
